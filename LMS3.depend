@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1611839616 source:f:\yarb3\lms3\main.cpp
+	<iostream>
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611836723 f:\yarb3\lms3\student.h
+	<iostream>
+	<fstream>
+
+1611847048 source:c:\users\a-salah\desktop\lms3\main.cpp
+	<iostream>
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611836723 c:\users\a-salah\desktop\lms3\student.h
+	<iostream>
+	<fstream>
+
+1611993008 source:c:\users\mahmo\downloads\lms3\main.cpp
+	<iostream>
+	"subject.h"
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611984497 c:\users\mahmo\downloads\lms3\student.h
+	<iostream>
+	<fstream>
+
+1611991334 c:\users\mahmo\downloads\lms3\subject.h
+	<iostream>
+
+1612011489 source:g:\lms3\main.cpp
+	<iostream>
+	"subject.h"
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611991334 g:\lms3\subject.h
+	<iostream>
+
+1611984497 g:\lms3\student.h
+	<iostream>
+	<fstream>
+
+1612015132 source:f:\final file\main.cpp
+	<iostream>
+	"subject.h"
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611991334 f:\final file\subject.h
+	<iostream>
+
+1611984497 f:\final file\student.h
+	<iostream>
+	<fstream>
+
+1612015132 source:g:\citiesskylines\final file\main.cpp
+	<iostream>
+	"subject.h"
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611991334 g:\citiesskylines\final file\subject.h
+	<iostream>
+
+1616018109 g:\citiesskylines\final file\student.h
+	<iostream>
+	<fstream>
+
+1612015132 source:g:\work\lms 1st tronics\main.cpp
+	<iostream>
+	"subject.h"
+	"student.h"
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<numeric>
+	<math.h>
+
+1611991334 g:\work\lms 1st tronics\subject.h
+	<iostream>
+
+1616018109 g:\work\lms 1st tronics\student.h
+	<iostream>
+	<fstream>
+
